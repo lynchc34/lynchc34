@@ -6,6 +6,9 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/<top-lang>/?username=lynchc34&theme=<THEME_NAME>" />
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=lynchc34&layout=compact)](https://github.com/lynchc34/github-readme-stats)
 
-https://github-readme-stats.vercel.app/api?username=lynchc34&show_icons=true&theme=radical
+![Ciara's GitHub stats](https://github-readme-stats.vercel.app/api?username=lynchc34&show_icons=true&theme=gradient)
+
+<br />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lynchc34&hide=html)
