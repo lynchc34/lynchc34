@@ -2,7 +2,7 @@
 ## 〔 </b> <code>🎓 I'm a Computer Science Student</code> <b>@</b> <a href="https://www.tcd.ie/"><b><code> Trinity College Dublin</code></b></a> <b> 〕</b>
 
 <p align="center">
-### Conect with me @
+  ### Conect with me @
 
 <a href="https://www.linkedin.com/in/ciara-lynch-69812119a/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:clynch0093@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"></a>
