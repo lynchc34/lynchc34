@@ -1,5 +1,5 @@
 # Hey there, I'm Ciara! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-##〔 </b> <code>🎓 I'm a Computer Science Student</code> <b>@</b> <a href="https://www.tcd.ie/"><b><code> Trinity College Dublin</code></b></a> <b> 〕</b>
+## 〔 </b> <code>🎓 I'm a Computer Science Student</code> <b>@</b> <a href="https://www.tcd.ie/"><b><code> Trinity College Dublin</code></b></a> <b> 〕</b>
 
 ### Conect with me @
 <a href="https://www.linkedin.com/in/ciara-lynch-69812119a/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
