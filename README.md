@@ -7,8 +7,8 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/<top-lang>/?username=lynchc34&theme=<THEME_NAME>" />
 
 
-![Ciara's GitHub stats](https://github-readme-stats.vercel.app/api?username=lynchc34&show_icons=true&theme=gradient)
+![Ciara's GitHub stats](https://github-readme-stats.vercel.app/api?username=lynchc34&show_icons=true&theme=gotham)
 
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lynchc34&hide=html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lynchc34&hide=html&layout=compact)
