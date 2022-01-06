@@ -2,7 +2,7 @@
 ## 〔 </b> <code>🎓 I'm a Computer Science Student</code> <b>@</b> <a href="https://www.tcd.ie/"><b><code> Trinity College Dublin</code></b></a> <b> 〕</b>
 
 <p align="center">
-###  Conect with me @
+## Conect with me @
 </p>
 
 <p align="center">
