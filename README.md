@@ -1,4 +1,6 @@
-# Hey there, I'm Ciara! ![welcome!](https://user-images.githubusercontent.com/61195644/179372622-3fb55929-b5e1-469f-9aa9-333d9e011df0.gif)
+# Hey there, I'm Ciara! 
+
+![welcome!](https://user-images.githubusercontent.com/61195644/179372622-3fb55929-b5e1-469f-9aa9-333d9e011df0.gif)
 
 ## 〔 </b> <code>🎓 I'm a Computer Science Student</code> <b>@</b> <a href="https://www.tcd.ie/"><b><code> Trinity College Dublin</code></b></a> <b> 〕</b>
 
@@ -11,7 +13,7 @@
   <a href="mailto:clynch0093@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the- badge&logo=gmail&logoColor=white"></a>
 </p>
 <p align="center">
-  ![Ciara's GitHub stats](https://github-readme-stats.vercel.app/api?username=lynchc34&show_icons=true&theme=gotham)
+![Ciara's GitHub stats](https://github-readme-stats.vercel.app/api?username=lynchc34&show_icons=true&theme=gotham)
 </p>
 <br />
 
