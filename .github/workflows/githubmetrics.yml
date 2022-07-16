@@ -14,14 +14,26 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          template: terminal
+          filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          base: header, metadata
+          
       - name: Half-year calendar
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.isocalendar.svg
+          filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_isocalendar: yes
+      
+      - name: Using classic charts
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_stargazers: yes
   
   
 
