@@ -1,4 +1,4 @@
-<h4 align="centre"><samp>Hey there, I'm Ciara!</samp>
+<h3 align="centre"><samp>Hey there, I'm Ciara!</samp>
 <p align="center"><br>
   <samp>
     < </b> <code>🎓 I'm a Computer Science Student</code> <b>@</b> <a href="https://www.tcd.ie/"><b><code> Trinity College Dublin</code></b></a> <b> > </b>
