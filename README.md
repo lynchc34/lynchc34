@@ -1,4 +1,4 @@
-<h4 align="center">Hey there, I'm Ciara!</h4>
+<h3 align="center">Hey there, I'm Ciara!</h3>
 <p align="center"><br>
   <samp>
     < </b> <code>🎓 I'm a Computer Science Student</code> <b>@</b> <a href="https://www.tcd.ie/"><b><code> Trinity College Dublin</code></b></a> <b> > </b>
@@ -17,17 +17,15 @@
       <a href="https://github.com/lynchc34?tab=repositories&language=javascript" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f1e05a?style=flat-square&logo=Javascript&logoColor=white"></a>
       <a href="https://github.com/lynchc34?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-f34b7d?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
       <a href="https://github.com/lynchc34?tab=repositories&language=C" target="_blank"><img alt="C" src="https://img.shields.io/badge/-C-red"></a>
-      <a href="https://github.com/lynchc34?tab=repositories&language=java" target="_blank"><img alt="Java" src="https://img.shields.io/badge/-Java-b07219?style=flat-square&logo=Java&logoColor=white"></a>
+      <a href="https://github.com/lynchc34?tab=repositories&language=java" target="_blank"><img alt="Java" src="https://img.shields.io/badge/-Java-lightgreye"></a>
       <a href="https://github.com/lynchc34?tab=repositories&language=html" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"></a>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=lynchc34&show_icons=true&theme=gotham"></img>
 <br>  
 <p align="center">
   <br>
-    **Connect with me @**
+    <h4>Connect with me @</h4>
     <a href="https://www.linkedin.com/in/ciara-lynch-69812119a/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin%20-           %230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="mailto:clynch0093@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the- badge&logo=gmail&logoColor=white"></a>
-  <br>
-  <br />
+    <a href="mailto:clynch0093@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the- badge&logo=gmail&logoColor=white"></a><br>
 </p>
 
