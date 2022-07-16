@@ -3,7 +3,7 @@
 
 
 
-## 〔 </b> <code>🎓 I'm a Computer Science Student</code> <b>@</b> <a href="https://www.tcd.ie/"><b><code> Trinity College Dublin</code></b></a> <b> 〕</b>
+## [</b> <code>🎓 I'm a Computer Science Student</code> <b>@</b> <a href="https://www.tcd.ie/"><b><code> Trinity College Dublin</code></b></a> <b> ]</b>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/61195644/179372622-3fb55929-b5e1-469f-9aa9-333d9e011df0.gif" width="400" />
