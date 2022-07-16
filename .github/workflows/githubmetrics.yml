@@ -9,10 +9,10 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+    
+      - name: Terminal Template
+        uses: lowlighter/metrics@latest
         with:
           template: terminal
           filename: github-metrics.svg
@@ -26,14 +26,5 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_isocalendar: yes
-      
-      - name: Using classic charts
-        uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_stargazers: yes
   
   
-
