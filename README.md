@@ -25,7 +25,7 @@
 
 <p align="center">
   <br>
-   <h4>Connect with me @</h4>
+   <h4 align="center">Connect with me @</h4>
    <a href="https://www.linkedin.com/in/ciara-lynch-69812119a/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin%20-           %230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
    <a href="mailto:clynch0093@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the- badge&logo=gmail&logoColor=white"></a><br>
 </p>
