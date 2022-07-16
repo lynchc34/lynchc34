@@ -1,9 +1,9 @@
-# Hey there, I'm Ciara! 
+## Hey there, I'm Ciara! 
 
 
 
 <p align="center">
-  ## [ </b> <code>🎓 I'm a Computer Science Student</code> <b>@</b> <a href="https://www.tcd.ie/"><b><code> Trinity College Dublin</code></b></a> <b> ]</b>
+  [ </b> <code>🎓 I'm a Computer Science Student</code> <b>@</b> <a href="https://www.tcd.ie/"><b><code> Trinity College Dublin</code></b></a> <b> ]</b>
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/61195644/179372622-3fb55929-b5e1-469f-9aa9-333d9e011df0.gif" width="400" />
@@ -13,10 +13,11 @@
 
 
 <p align="center">
-  **Connect with me @**
-  <a href="https://www.linkedin.com/in/ciara-lynch-69812119a/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin%20-           %230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:clynch0093@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the- badge&logo=gmail&logoColor=white"></a>
-
+  <br>
+    Connect with me @
+    <a href="https://www.linkedin.com/in/ciara-lynch-69812119a/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin%20-           %230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="mailto:clynch0093@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the- badge&logo=gmail&logoColor=white"></a>
+  <br>
 
   ![Ciara's GitHub stats](https://github-readme-stats.vercel.app/api?username=lynchc34&show_icons=true&theme=gotham)
 
