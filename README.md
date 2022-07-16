@@ -9,7 +9,7 @@
   <img src="https://user-images.githubusercontent.com/61195644/179372868-600591e4-4342-42e1-9829-3b4fa5194953.gif" width="400" height="370" /> 
 </p>
 <stats align="center">
-  <h4 align="center">My Stats</h4>
+  <h3 align="center">My Stats</h3>
   <p align="center">
     <br>
       <a href="https://github.com/lynchc34?tab=repositories" target="_blank"><img alt="My Languages" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
