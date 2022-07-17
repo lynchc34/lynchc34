@@ -1,7 +1,7 @@
 <h2 align="center">Hey there, I'm Ciara!</h2>
 <p align="center"><br>
   <samp>
-    < </b> 🤖 I'm a Final Year Computer Science Student <b>@</b> <a href="https://www.tcd.ie/"><b><code> Trinity College Dublin 🤟 </code></b></a> <b> > </b>
+    <h3>< </b> 🤖 I'm a Final Year Computer Science Student <b>@</b> <a href="https://www.tcd.ie/"><b><code> Trinity College Dublin 🤟 </code></b></a> <b> > </b></h3>
   </samp>
 </p>
 <p align="center">
@@ -23,7 +23,6 @@
   <br>
   <img alt="Tools" width="59px" height="20" src="https://img.shields.io/badge/-tools-000000?style=flat-square&logo=Plex&logoColor=white">
   <img alt="Kali" width="64px" height="24" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
-  <img alt="Windows" width="59px" height="22" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img alt="AWS" width="66px" height="25" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img alt="MongoDB" width="63px" height="23" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"><br>
     <br>
