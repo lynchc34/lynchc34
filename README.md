@@ -24,7 +24,7 @@
   <img alt="Tools" width="59px" height="20" src="https://img.shields.io/badge/-tools-000000?style=flat-square&logo=Plex&logoColor=white">
   <img alt="Kali" width="64px" height="24" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
   <img alt="Windows" width="59px" height="22" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  <img alt="AWS" width="63px" height="25" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img alt="AWS" width="66px" height="25" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img alt="MongoDB" width="63px" height="23" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"><br>
 
     <br>
