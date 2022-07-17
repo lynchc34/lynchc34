@@ -19,6 +19,8 @@
       <a href="https://github.com/lynchc34?tab=repositories&language=javascript" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f1e05a?style=flat-square&logo=Javascript&logoColor=white"></a>
       <a href="https://github.com/lynchc34?tab=repositories&language=html" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"></a>
   <br>
+  <br>
+  <img alt="Tools" src="https://img.shields.io/badge/-tools-000000?style=flat-square&logo=Plex&logoColor=white">
   <img src="https://github-readme-stats.vercel.app/api?username=lynchc34&show_icons=true&theme=gotham"></img>
 <br> 
 
