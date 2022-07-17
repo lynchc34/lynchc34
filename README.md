@@ -1,4 +1,4 @@
-<h3 align="center">Hey there, I'm Ciara!</h3>
+<h2 align="center">Hey there, I'm Ciara!</h2>
 <p align="center"><br>
   <samp>
     < </b> 🤖 I'm a Final Year Computer Science Student <b>@</b> <a href="https://www.tcd.ie/"><b><code> Trinity College Dublin 🤟 </code></b></a> <b> > </b>
@@ -34,6 +34,6 @@
 <p align="center">
   <br>
    <a href="https://www.linkedin.com/in/ciara-lynch-69812119a/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin%20-           %230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
-   <a href="mailto:clynch0093@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the- badge&logo=gmail&logoColor=white"></a><br>
+   <a href="mailto:clynch0093@gmail.com" target="_blank"><img alt="Gmail" width="111" height="28" src="https://img.shields.io/badge/gmail-D14836?&style=for-the- badge&logo=gmail&logoColor=white"></a><br>
 </p>
 
