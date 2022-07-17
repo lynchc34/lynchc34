@@ -1,7 +1,7 @@
 <h2 align="center">Hey there, I'm Ciara!</h2>
 <p align="center"><br>
   <samp>
-    <h3>< </b> 🤖 I'm a Final Year Computer Science Student <b>@</b> <a href="https://www.tcd.ie/"><b><code> Trinity College Dublin 🤟 </code></b></a> <b> > </b></h3>
+    <h3 align="center">< </b> 🤖 I'm a Final Year Computer Science Student <b>@</b> <a href="https://www.tcd.ie/"><b><code> Trinity College Dublin 🤟 </code></b></a> <b> > </b></h3>
   </samp>
 </p>
 <p align="center">
