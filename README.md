@@ -28,12 +28,13 @@
   <img alt="MongoDB" width="63px" height="23" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"><br>
 
     <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=lynchc34&show_icons=true&theme=gotham"></img><br> 
+    <img src="https://github-readme-stats.vercel.app/api?username=lynchc34&show_icons=true&theme=gotham"></img>
+    <br> 
 
 <h4 align="center">Connect with me @</h4>
 <p align="center">
   <br>
    <a href="https://www.linkedin.com/in/ciara-lynch-69812119a/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin%20-           %230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
-   <a href="mailto:clynch0093@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the- badge&logo=gmail&logoColor=white"></a><br>
+   <a href="mailto:clynch0093@gmail.com" target="_blank"><img alt="Gmail" width="111" height="28" src="https://img.shields.io/badge/gmail-D14836?&style=for-the- badge&logo=gmail&logoColor=white"></a><br>
 </p>
 
