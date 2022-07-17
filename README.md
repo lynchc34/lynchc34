@@ -21,11 +21,11 @@
   <br>
     
   <br>
-  <img alt="Tools" width="26px" src="https://img.shields.io/badge/-tools-000000?style=flat-square&logo=Plex&logoColor=white">
-  <img alt="Kali" width="26px" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
-  <img alt="Windows" width="26px" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  <img alt="AWS" width="26px" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-  <img alt="MongoDB" width="26px" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"><br>
+  <img alt="Tools" width="59px" height="20" src="https://img.shields.io/badge/-tools-000000?style=flat-square&logo=Plex&logoColor=white">
+  <img alt="Kali" width="59px" height="20" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
+  <img alt="Windows" width="59px" height="20" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  <img alt="AWS" width="59px" height="20" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img alt="MongoDB" width="59px" height="20" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"><br>
 
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=lynchc34&show_icons=true&theme=gotham"></img><br> 
