@@ -26,7 +26,7 @@
   <img alt="Kali" width="64px" height="24" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
   <img alt="AWS" width="65px" height="25" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img alt="MongoDB" width="63px" height="23" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img alt="Brushin up on Powershell" width="63px" height="23" src="https://user-images.githubusercontent.com/61195644/203808187-400a6411-d3f5-41da-b863-b8ac4da9098e.svg"><br>
+  <img alt="Brushin up on Powershell" width="63px" height="23" src="https://user-images.githubusercontent.com/61195644/203808527-e18b552b-46a5-46e5-9b04-88b9bf486609.svg"><br>
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=lynchc34&show_icons=true&theme=gotham"></img>
     <br> 
