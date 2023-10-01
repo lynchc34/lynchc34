@@ -11,8 +11,7 @@
 <stats align="center">
   <h3 align="center">My Stats</h3>
   <p align="center">
-    <br>
-      <a href="https://github.com/lynchc34?tab=repositories" target="_blank"><br>
+      <a href="https://github.com/lynchc34?tab=repositories" target="_blank">
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=lynchc34&show_icons=true&theme=gotham"></img>
     <br> 
