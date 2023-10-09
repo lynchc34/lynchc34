@@ -5,15 +5,8 @@
   </samp>
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/61195644/179372622-3fb55929-b5e1-469f-9aa9-333d9e011df0.gif" width="400" />
   <img src="https://user-images.githubusercontent.com/61195644/179372868-600591e4-4342-42e1-9829-3b4fa5194953.gif" width="400" height="370" /> 
 </p>
-<stats align="center">
-  <h3 align="center">My Stats</h3>
-  <p align="center">
-      <a href="https://github.com/lynchc34?tab=repositories" target="_blank">
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=lynchc34&show_icons=true&theme=gotham"></img>
     <br> 
 
 <h4 align="center">Connect with me @</h4>
