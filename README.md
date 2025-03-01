@@ -1,18 +1,7 @@
-<h2 align="center">Hey there, I'm Ciara!</h2>
-<p align="center"><br>
-  <samp>
-    <h3 align="center">< </b> 🤖 I'm a Computer Science Student <b>@</b> <a href="https://www.tcd.ie/"><b><code> Trinity College Dublin 🤟 </code></b></a> <b>  > </b></h3>
-  </samp>
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/61195644/179372868-600591e4-4342-42e1-9829-3b4fa5194953.gif" width="400" height="370" /> 
-</p>
-    <br> 
-
-<h4 align="center">Connect with me @</h4>
-<p align="center">
-  <br>
-   <a href="https://www.linkedin.com/in/ciara-lynch-69812119a/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin%20-           %230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
-   <a href="mailto:lynchc34@tcd.ie" target="_blank"><img alt="Gmail" width="111" height="28" src="https://img.shields.io/badge/gmail-D14836?&style=for-the- badge&logo=gmail&logoColor=white"></a><br>
-</p>
+<h2 align="left">Hey I'm Ciara</h2>
+I'm a pentester. Just enjoying breaking things for a living.
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzcydDY0ZHNsenBnaTBuZ3Z2bnVzdXF1OXZua3dubWM3ZXJ2cWN4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/e5f8lBfc0sIPTvCPrU/giphy.gif" width="200" height="170" /> 
+<h5 align="left">Connect with me @</h5>
+<a href="https://www.linkedin.com/in/ciara-lynch-69812119a/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin%20-           %230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:lynchc34@tcd.ie" target="_blank"><img alt="Gmail" width="111" height="28" src="https://img.shields.io/badge/gmail-D14836?&style=for-the- badge&logo=gmail&logoColor=white"></a><br>
 
